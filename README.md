@@ -11,9 +11,9 @@ This repository contains implementations for a Basic Weather App, BMI Calculator
 - Random Password Generator
 
 ### Basic Weather App
-- Description: This module implements a Basic Weather app that a user Provide a country name and get the information of the weather 
-- Installation: Include instructions on how to set up the weather app or integrate to other Projects 
-- Usage: you can enter the name of the country you want and you can get all the information regarding the weather 
+- Description: This module implements a Basic Weather app which a user Provides a country name and gets information of the weather 
+- Installation: Include instructions on how to set up the weather app or integrate into other Projects 
+- Usage: you can enter the name of the country and you can get all the information regarding the weather 
 
 ### BMI Calculator
 - Description: This module calculates Body Mass Index (BMI) based on user-provided weight and height.
