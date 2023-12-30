@@ -3,22 +3,22 @@
 
 
 ## Description
-This repository contains implementations for a Voice Assistant, BMI Calculator, and Random Password Generator.
+This repository contains implementations for a Basic Weather App, BMI Calculator, and Random Password Generator.
 
 ## Table of Contents
-- Voice Assistant
+- Basic Weather App
 - BMI Calculator
 - Random Password Generator
 
-### Voice Assistant
-- Description: This module implements a voice-activated assistant using Python. The assistant responds to user voice commands, performs tasks, and provides information based on predefined functionalities.
-- Installation: Include instructions on how to set up and run the voice assistant on different platforms.
-- Usage: Provide examples and guidelines on how users can interact with the voice assistant.
+### Basic Weather App
+- Description: This module implements a Basic Weather app that a user Provide a country name and get the information of the weather 
+- Installation: Include instructions on how to set up the weather app or integrate to other Projects 
+- Usage: you can enter the name of the country you want and you can get all the information regarding the weather 
 
 ### BMI Calculator
 - Description: This module calculates Body Mass Index (BMI) based on user-provided weight and height.
 - Installation: Include instructions on how to use or integrate the BMI calculator into other applications.
-- Usage: Provide examples of how users can input their data and get BMI results.
+- Usage: you can use this app to manage your Body Mass Index 
 
 ### Random Password Generator
 - Description: This module generates random passwords with customizable settings such as length, character types, etc.
