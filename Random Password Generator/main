@@ -2,9 +2,6 @@ import random
 import string
 
 def generate_password(length, use_letters=True, use_numbers=True, use_symbols=True):
-    """
-    Generate a password based on user-defined criteria.
-    """
     characters = ''
     if use_letters:
         characters += string.ascii_letters
